@@ -12,9 +12,9 @@
 I am a developer with over 4 years of experience, specialized in building and maintaining scalable web applications. My passion is creating robust Front-End architectures with Angular and high-performance microservices with NestJS.
 
 - 🎯 Open to new professional opportunities (Remote). I’m seeking a challenging role where I can apply my senior-level experience in Angular, NestJs, or NextJs.- 
-- 🎓 Currently learning `Python` and `AWS`
-- 🌱 My future technical interests include transitioning to DevOps with Python and Go.
-- 📫 Cómo contactarme:
+- 🎓 Currently learning `GO` and `AWS`
+- 🌱 My future technical interests include transitioning to Platform Engineering with Go and AWS.
+- 📫 How to contact me:
   - Visit me on <a href="https://www.linkedin.com/in/cascosam/">🟦 Linkedin</a>
   - Or send me an email at <a href="mailto:sacasco99@gmail.com">📧 Email</a>
 
@@ -100,7 +100,7 @@ Aquí están las tecnologías que uso profesionalmente, organizadas por área de
 
 ## 🌱 My next steps
 
-`Python` | `Go` | `Firebase`
+`Go` | `Firebase`
 
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
