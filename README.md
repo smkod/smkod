@@ -20,9 +20,9 @@ I am a developer with over 4 years of experience, specialized in building and ma
 
 ---
 
-## 🚀 Mi Stack Tecnológico
+## 🚀 My tech stack
 
-Aquí están las tecnologías que uso profesionalmente, organizadas por área de expertise.
+Here you can see the tech stack I’ve used, organized by area of expertise.
 
 ### 1. Front-End
 `Angular` | `Next.js` | `ReactJs` | `TypeScript` | `RxJS` | `Redux` | `TailwindCSS` | `Sass` | `Material UI` | `Bootstrap` | `HTML5`
