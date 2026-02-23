@@ -63,7 +63,7 @@ Here you can see the tech stack I’ve used, organized by area of expertise.
     </a>
 </p>
 
-### 3. Bases de Datos & DevOps
+### 3. Databases & DevOps
 `Docker` | `Git` | `PostgreSQL` | `SQL Server` | `MongoDB` | `Jenkins` | `SonarQube`
 
 <p align="left">
@@ -81,7 +81,7 @@ Here you can see the tech stack I’ve used, organized by area of expertise.
     </a>
 </p>
 
-### 4. Testing & Herramientas
+### 4. Testing & Tools
 `Jest` | `Jenkins` | `Mocha` | `Postman` | `Figma`
 
 <p align="left">
