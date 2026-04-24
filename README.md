@@ -1,43 +1,23 @@
-## Hi there, welcome to my profile 👋
-
-<div style="
-  width: 100%;
-  height: 150px;
-  border-radius: 10px;
-  background: linear-gradient(to right, #4e54c8, #8f94fb);
-"></div>
-
-### Senior Full-Stack Developer (Angular | NestJS | Typescript)
-
-I am a developer with over 4 years of experience, specialized in building and maintaining scalable web applications. My passion is creating robust Front-End architectures with Angular and high-performance microservices with NestJS.
-
-- 🎯 Open to new professional opportunities (Remote). I’m seeking a challenging role where I can apply my senior-level experience in Angular, NestJs, or NextJs.- 
-- 🎓 Currently learning `GO` and `AWS`
-- 🌱 My future technical interests include transitioning to Platform Engineering with Go and AWS.
-- 📫 How to contact me:
-  - Visit me on <a href="https://www.linkedin.com/in/cascosam/">🟦 Linkedin</a>
-  - Or send me an email at <a href="mailto:sacasco99@gmail.com">📧 Email</a>
-
+# Hi there, I'm Samuel! 👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cascosam&show_icons=true&theme=tokyonight" alt="Samuel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cascosam&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+### 🚀 Senior Full-Stack Developer | Aspiring Platform Engineer
+I am a developer with over **4 years of experience** building scalable web architectures. Currently specialized in **Angular** and **NestJS**, I am actively pivoting towards **Platform Engineering** by mastering **Go** and **AWS**.
 ---
-
-## 🚀 My tech stack
-
-Here you can see the tech stack I’ve used, organized by area of expertise.
-
-### 1. Front-End
-`Angular` | `Next.js` | `ReactJs` | `TypeScript` | `RxJS` | `Redux` | `TailwindCSS` | `Sass` | `Material UI` | `Bootstrap` | `HTML5`
-
-### 2. Back-End
-`NestJS` | `Node.js` | `TypeScript` | `Express.js`
-
-### 3. Databases & DevOps
-`Docker` | `Git` | `PostgreSQL` | `SQL Server` | `MongoDB` | `Jenkins` | `SonarQube`
-
-### 4. Testing & Tools
-`Jest` | `Jenkins` | `Mocha` | `Postman` | `Figma`
-
+### 🛠️ Tech Stack
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Backend** | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) |
+| **DevOps & DB** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Testing** | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) |
 ---
-
-## 🌱 My next steps
-
-`Go` | `Firebase`
+### 🎯 Current Focus
+- 🎓 **Learning:** Advanced Go (Golang) and AWS Cloud Architecture.
+- 🌱 **Goal:** Transitioning into **Platform Engineering** to build resilient infrastructure.
+- 💼 **Open to:** Senior Angular/NestJS roles or Junior/Mid Platform Engineering opportunities.
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cascosam/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sacasco99@gmail.com)
