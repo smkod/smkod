@@ -1,8 +1,5 @@
 # Hi there, I'm Samuel! 👋
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cascosam&show_icons=true&theme=tokyonight" alt="Samuel's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cascosam&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+
 ### 🚀 Senior Full-Stack Developer | Aspiring Platform Engineer
 I am a developer with over **4 years of experience** building scalable web architectures. Currently specialized in **Angular** and **NestJS**, I am actively pivoting towards **Platform Engineering** by mastering **Go** and **AWS**.
 ---
