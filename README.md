@@ -1,20 +1,45 @@
 # Hi there, I'm Samuel! 👋
 
-### 🚀 Senior Full-Stack Developer | Aspiring Platform Engineer
-I am a developer with over **4 years of experience** building scalable web architectures. Currently specialized in **Angular** and **NestJS**, I am actively pivoting towards **Platform Engineering** by mastering **Go** and **AWS**.
+### 🚀 Software Engineer | Distributed Systems & Full-Stack Architecture
+I’m an engineer who loves building systems that actually scale. I’ve spent the last 4+ years navigating high-stakes environments—from orchestrating secure banking portals in Angular to designing high-concurrency microservices in Go and NestJS for telecoms.
+
+I’m a big believer in fundamentals over framework-hype. For me, it’s not just about making it work; it’s about making it resilient, maintainable, and efficient. Currently, I'm bridging the gap between robust Full-Stack development and Cloud-Native architectures, pushing the limits of Go and AWS.
+
 ---
-### 🛠️ Tech Stack
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Backend** | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) |
-| **DevOps & DB** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Testing** | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) |
----
+
 ### 🎯 Current Focus
-- 🎓 **Learning:** Advanced Go (Golang) and AWS Cloud Architecture.
-- 🌱 **Goal:** Transitioning into **Platform Engineering** to build resilient infrastructure.
-- 💼 **Open to:** Senior Angular/NestJS roles or Junior/Mid Platform Engineering opportunities.
+- 🏗️ **Architecting:** A Cloud-Native Language Learning Platform using **Go (gRPC)** and **Next.js**.
+- ☁️ **Mastering:** Advanced AWS Infrastructure and Distributed Systems patterns.
+- 💼 **Open to:** Backend (Go/Node) or Full-Stack roles where architectural excellence and scalability are the core focus.
+
+---
+
+### 🛠️ Tech Stack
+
+| &nbsp; | &nbsp; |
+| :--- | :--- |
+| **🌐 Backend & Distributed** | <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" height="25" /> |
+| **☁️ Cloud & DevOps** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="25" /> |
+| **🎨 Frontend Ecosystem** | <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" /> |
+| **🧪 Testing & Quality** | <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/Husky-666666?style=for-the-badge&logo=hugo&logoColor=white" height="25" /> |
+| **🗄️ Databases** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25" /> |
+
+---
+
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cascosam/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sacasco99@gmail.com)
+**Do you have an interesting project in mind? Let's talk!**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/samuelcasco/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sacasco99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+</p>
+
+<br />
+
+---
+*“Evolving systems, mastering fundamentals, building the future of distributed software.”*
