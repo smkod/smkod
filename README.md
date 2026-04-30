@@ -1,6 +1,6 @@
 # Hi there, I'm Samuel! 👋
 
-### 🚀 Software Engineer | Distributed Systems & Full-Stack Architecture
+### 🚀 Software Engineer | Distributed Systems & Full-Stack
 I’m an engineer who loves building systems that actually scale. I’ve spent the last 4+ years navigating high-stakes environments—from orchestrating secure banking portals in Angular to designing high-concurrency microservices in Go and NestJS for telecoms.
 
 I’m a big believer in fundamentals over framework-hype. For me, it’s not just about making it work; it’s about making it resilient, maintainable, and efficient. Currently, I'm bridging the gap between robust Full-Stack development and Cloud-Native architectures, pushing the limits of Go and AWS.
