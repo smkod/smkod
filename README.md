@@ -8,7 +8,7 @@ I’m a big believer in fundamentals over framework-hype. For me, it’s not jus
 ---
 
 ### 🎯 Current Focus
-- 🏗️ **Architecting:** A Cloud-Native Language Learning Platform.
+- 🏗️ **Building:** A Cloud-Native Language Learning Platform.
 - ☁️ **Mastering:** Advanced AWS Infrastructure and Distributed Systems patterns.
 - 💼 **Open to:** Backend (Go/Node) or Full-Stack roles where architectural excellence and scalability are the core focus.
 
