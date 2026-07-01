@@ -10,7 +10,7 @@ I’m a big believer in fundamentals over framework-hype. For me, it’s not jus
 ### 🎯 Current Focus
 - 💻 **Building:** A mobile product as an entrepreneurial venture, covering full-cycle product development.
 - ☁️ **Exploring:** Cloud architectures with AWS, distributed systems patterns with Go and gRPC.
-- 💼 **Open to:** Full-Stack (Angular/Node), Backend (NestJS/Node), or Frontend Lead roles where architectural excellence and scalability are the core focus.
+- 💼 **Open to:** Full-Stack (Angular/Node), Backend (NestJS/Node).
 
 ---
 
